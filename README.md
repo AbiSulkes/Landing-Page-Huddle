@@ -17,7 +17,7 @@ Huddle es una página web diseñada para promover la creación y gestión de com
 
 ### Captura de pantalla
 
-![image](./design/desktop-design.jpg)
+![image]([./design/desktop-design.jpg](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/m8aueljlhfwzve7zxpy7.jpg))
 
 ## Mi proceso
 
