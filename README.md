@@ -1,6 +1,6 @@
 # Frontend Mentor - Landing Page Huddle
 
-Esta es una solución para el [desafío del componente de código QR en Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
+Esta es una solución para el [desafío Huddle landing page with a single introductory section en Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
 
 ## Tabla de contenido
 
